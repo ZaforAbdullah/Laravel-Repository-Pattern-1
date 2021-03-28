@@ -1,5 +1,7 @@
 <?php
 
+//API for Response
+
 namespace App\Traits;
 
 trait ResponseAPI

@@ -1,5 +1,7 @@
 <?php
 
+//Repository for making controller thin, data acces happens here
+
 namespace App\Repositories;
 
 use App\Http\Requests\UserRequest;

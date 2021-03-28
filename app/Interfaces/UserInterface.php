@@ -1,5 +1,7 @@
 <?php
 
+//UserInterface class for later implement
+
 namespace App\Interfaces;
 
 use App\Http\Requests\UserRequest;

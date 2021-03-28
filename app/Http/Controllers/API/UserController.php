@@ -1,5 +1,7 @@
 <?php
 
+//Controller utilise Repository for data access
+
 namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;

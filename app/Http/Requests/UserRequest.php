@@ -1,5 +1,7 @@
 <?php
 
+//Request Class for Validation
+
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
